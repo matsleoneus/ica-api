@@ -318,7 +318,7 @@ GET /api/user/shoppinglists
 }
 ```
 
-## /api/user/shoppinglist/XXXXXX
+## /api/user/shoppinglists/XXXXXX
 
 Innehållet i en inköpslista. Ersätt XXXXXX med inköpslistans Id
 
